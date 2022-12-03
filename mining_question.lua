@@ -58,7 +58,7 @@ function backToHome(up)
     end 
 end
 
-local hairetu = {} --配列の中に値を入れよう
+local args = {} --配列の中に値を入れよう
 local n = args[] --配列の一番目をnの中に入れよう
 
 -- 燃料の補充
